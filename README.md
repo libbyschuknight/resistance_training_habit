@@ -1,24 +1,20 @@
-# README
+# Resistance Training Habit App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I am obsessed with surfing. I go surfing whenever I can.
 
-Things you may want to cover:
+To get better at surfing when there is no surf, I need to build up my strength.
 
-* Ruby version
+The plan is to do this via a resistance training program. But, I haven't got into a good habit with
+doing training sessions regularly.
 
-* System dependencies
+I use a tool called Precision Nutrition around eating habits and I'm pretty good at it.
 
-* Configuration
+I'm planning on trying to create something similar, but different.
 
-* Database creation
+I am also using this as an opportunity to learn new tech things. This Rails app is going to be a
+bit of a playground to test ideas and whip things up quickly.
 
-* Database initialization
+I am also planning on creating a Rails API app and a React app and then connect them together, as I
+want to learn more about APIs and React.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Let's see how I go! 😁 😱
